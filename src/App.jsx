@@ -102,6 +102,12 @@ function App() {
             <br />
             — Lucky 💌
           </p>
+          <img 
+            src="/us.JPG" 
+            alt="Us together" 
+            className="rounded-lg mx-auto shadow-md w-full object-cover"
+          />
+
         </div>
       )}
     </div>
